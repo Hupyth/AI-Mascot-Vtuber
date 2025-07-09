@@ -1,0 +1,3 @@
+echo ".venv/" >> .gitignore
+echo "whisper/" >> .gitignore
+echo "*.pt" >> .gitignore
